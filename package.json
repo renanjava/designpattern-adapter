@@ -1,0 +1,14 @@
+{
+    "name": "pessoa-csv-adapter",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "main.js",
+    "scripts": {
+      "start": "tsc && node dist/main.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "^5.0.0"
+    }
+  }
+  
